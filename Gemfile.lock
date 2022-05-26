@@ -84,7 +84,7 @@ GEM
     tilt (2.0.9)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
